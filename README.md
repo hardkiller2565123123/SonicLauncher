@@ -18,7 +18,7 @@ Currently in development – expect bugs and missing features.
 - More Mods
 
 ## 📥 Installation  
-1. Clone or download this repository.  
+1. Clone or download this repository or Release Tab.  
 2. Open the solution in **Visual Studio**.  
 3. Build and run the project.  
 
