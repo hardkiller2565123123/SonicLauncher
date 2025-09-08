@@ -16,6 +16,7 @@ Currently in development – expect bugs and missing features.
 - Friend/party system  
 - Settings persistence & profiles
 - More Mods
+- Mods Auto Exrtract (Have the mods auto to game location and be play Currently only download them)
 
 ## 📥 Installation  
 1. Clone or download this repository or Release Tab.  
